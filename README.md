@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://elicardenas47.github.io/">
-    <img src="https://raw.githubusercontent.com/elicardenas47/elicardenas47/main/GitHub_Banner.png" width="500" alt="Logo SAS" />
+    <img src="https://raw.githubusercontent.com/elicardenas47/elicardenas47/main/GitHubLogo.png" width="500" alt="Logo SAS" />
   </a>
 
   <h1>Eli Cardenas</h1>
